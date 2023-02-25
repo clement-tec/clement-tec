@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Clement Senou</h1>
-<h3 align="center">A passionate software developer base in Houston</h3>
+<h3 align="center">A software developer base in Houston</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clement-tec&label=Profile%20views&color=0e75b6&style=flat" alt="clement-tec" /> </p>
