@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/clement-senou/**
 
-- ⚡ Fun fact **Everything sounds so better in my head but not when I open my mouth**
+- ⚡ Fun fact **I use to be a break danser**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
