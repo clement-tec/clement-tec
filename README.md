@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clement-tec" alt="clement-tec" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@clementsenou74](https://medium.com/@clementsenou74)
 
