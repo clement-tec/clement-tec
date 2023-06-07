@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@clementsenou74](https://medium.com/@clementsenou74)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Python, SQL, Flask, UI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/clement-senou/**
 
